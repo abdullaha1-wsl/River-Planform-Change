@@ -21,9 +21,10 @@ This repository contains a Jupyter Notebook that implements a fully automated wo
 
 **Case study:** Chenab River (Indus Basin), Pakistan — 2014, 2022 (megaflood), and 2023 events.
 
----
+
 
 ## 📂 Repository Structure
+```
 River-Planform-Change/
 ├── river_planform_change.ipynb # Main Jupyter notebook (full pipeline)
 ├── data/
@@ -32,8 +33,7 @@ River-Planform-Change/
 │ ├── discharge_2022.day
 │ └── discharge_2023.day
 └── README.md # You are here
-
-text
+```
 
 After running the notebook, additional folders will be created:
 
